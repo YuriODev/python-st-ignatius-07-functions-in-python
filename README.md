@@ -1,10 +1,10 @@
 # 📘 Functions in Python
 
-![GitHub contributors](https://img.shields.io/github/contributors/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
-![License](https://img.shields.io/github/license/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/YurioDev/python-yuriodev-07-functions-in-python?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/YurioDev/python-yuriodev-07-functions-in-python?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/YurioDev/python-yuriodev-07-functions-in-python?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/YurioDev/python-yuriodev-07-functions-in-python?style=for-the-badge)
+![License](https://img.shields.io/github/license/YurioDev/python-yuriodev-07-functions-in-python?style=for-the-badge)
 
 Welcome to the **Functions Module** of the **YuriODev Comprehensive Python Course**. Functions are essential to organizing code, making it reusable, and reducing redundancy. This module will help you understand how to define, call, and utilize functions effectively.
 
